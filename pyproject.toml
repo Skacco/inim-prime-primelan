@@ -8,6 +8,9 @@ license = { text = "GPLv3" }
 authors = [
     { name = "Pitscheider", email = "pitscheider@tuta.com" }
 ]
+maintainers = [
+    { name = "Skacco" }
+]
 keywords = ["inim", "alarm", "panel", "async", "home-automation"]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -26,6 +29,10 @@ dependencies = [
 dev = [
     "python-dotenv>=1.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/Skacco/inim-prime-primelan"
+"Original project" = "https://github.com/Pitscheider/inim-prime-primelan"
 
 [build-system]
 requires = ["setuptools>=65.5", "wheel"]
