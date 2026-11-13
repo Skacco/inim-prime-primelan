@@ -1,3 +1,5 @@
+> Published on PyPI as [`inim-prime-primelan`](https://pypi.org/project/inim-prime-primelan/) and maintained by [Skacco](https://github.com/Skacco). Original author: [Pitscheider](https://github.com/Pitscheider/inim-prime-primelan).
+
 ## Introduction
 inim-prime-primelan allows you to communicate with INIM Prime alarm panels over HTTP/HTTPS using an asynchronous API with
 Python.
